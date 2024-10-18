@@ -10,12 +10,11 @@
 # Branching
 #
 # new branch
-<<<<<<< HEAD
 #
 # rebase
 #
 # One more time am adding the rebase
 # adding one more rebase
 #
-=======
->>>>>>> 7500e11 (branch change)
+#adding in master branch
+#
